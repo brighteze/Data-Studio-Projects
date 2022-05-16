@@ -12,6 +12,8 @@ In this dashboard report, I analyze Google analytics web traffic in other to ide
 
 Through this analysis, we can understand web users better and optimize the website based on this.
 
+Live report is available here - https://datastudio.google.com/reporting/7e23b6cd-d2ab-4f7a-b067-680bbb634c32
+
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -25,3 +27,5 @@ In this dashboard report, I analyze the interactions of users, what they are doi
 
 Through this analysis, content can be improved to target non-American visitors.
 We can also understand better what visitors are doing on our page, and optimize the page accordingly.
+
+Live report is available here - https://datastudio.google.com/reporting/712550a0-3c26-4c12-8b3a-d1a9cef643e9
