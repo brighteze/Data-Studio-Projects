@@ -13,8 +13,7 @@ In this dashboard report, I analyze Google analytics web traffic in other to ide
 Through this analysis, we can understand web users better and optimize the website based on this.
 
 
-br/
-br/
+
 
 
 ### Project 2 - User Behaviour Analytics.
